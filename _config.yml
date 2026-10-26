@@ -23,12 +23,12 @@ author:
   avatar           : "profile.png"
   name             : "Menghan Wang"
   pronouns         : #
-  bio              : Linguist
+  bio              : #
   location         : "China"
   employer         : "UIBE"
   email            : "menghan.w@uibe.edu.cn" 
-  researchgate     : "https://www.researchgate.net/profile/Menghan-Wang-11"
   orcid            : "https://orcid.org/0000-0002-7177-1828"
+  researchgate     : "https://www.researchgate.net/profile/Menghan-Wang-11"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=gs5MDooAAAAJ"
 
   # Repositories and software development
@@ -37,11 +37,11 @@ author:
   dribbble         : # Username
   github           : # Username
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : # Username   
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
