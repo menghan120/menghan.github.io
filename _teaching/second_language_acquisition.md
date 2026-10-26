@@ -10,13 +10,11 @@ location: "Melbourne, Australia"
 
 This subject offers a survey of the principal topics currently addressed in the study of second language acquisition, and of the major research methods and paradigms used in such studies. 
 
-Semester 1, 2023, 2024, 2025
-
-Heading 1
+Semester 1, 2023
 ======
 
-Heading 2
+Semester 1, 2024
 ======
 
-Heading 3
+Semester 1, 2025
 ======
