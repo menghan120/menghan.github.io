@@ -1,16 +1,16 @@
 ---
-title: "LING90012"
+title: "Second Language Acquisition (LING90012)"
 collection: teaching
 type: "Postgraduate subject"
 permalink: /teaching/second_language_acquisition
 venue: "School of Languages and Linguistics, University of Melbourne"
-date: 2023-02-01
+date: #
 location: "Melbourne, Australia"
 ---
 
-Semester 1, 2025
-Semester 1, 2024
-Semester 1, 2023
+This subject offers a survey of the principal topics currently addressed in the study of second language acquisition, and of the major research methods and paradigms used in such studies. 
+
+Semester 1, 2023, 2024, 2025
 
 Heading 1
 ======
