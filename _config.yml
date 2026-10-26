@@ -21,15 +21,15 @@ repository               : "menghan120/menghan120.github.io"
 author:
   # Biographic information
   avatar           : "minnie.png"
-  name             : #
+  name             : "Menghan Wang 王梦涵"
   pronouns         : #
-  bio              : #
+  bio              : "Lecturer @ UIBE"
   location         : "China"
-  employer         : "UIBE"
-  email            : "menghan.w@uibe.edu.cn" 
-  orcid            : "https://orcid.org/0000-0002-7177-1828"
+  employer         : #
+  email            : #
+  orcid            : #
   researchgate     : "https://www.researchgate.net/profile/Menghan-Wang-11"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=gs5MDooAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=gs5MDooAAAAJ&hl=en"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
