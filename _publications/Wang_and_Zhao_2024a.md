@@ -2,7 +2,7 @@
 title: "Are schematic diagrams valid visual representations of concepts? Evidence from mental imagery in online processing of English prepositions"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-06-08-paper-title-number-5
+permalink: /publication/Wang_and_Zhao_2024a
 excerpt: 'The study used schematic diagrams to examine whether mental imagery effect is modulated by target preposition (over, in), the abstractness of meaning (spatial, extended), and stimulus onset asynchrony (SOA; 1,040 ms, 2,040 ms) in English NSs and L2 learners.'
 date: 2024-04-02
 venue: 'Language and Cognition'
