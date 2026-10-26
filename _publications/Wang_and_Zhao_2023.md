@@ -1,5 +1,5 @@
 ---
-title: "Are schematic diagrams valid visual representations of concepts? Evidence from mental imagery in online processing of English prepositions"
+title: "Mental simulation in L2 processing of English prepositional phrases"
 collection: publications
 category: conferences
 permalink: /publication/Wang_and_Zhao_2023
