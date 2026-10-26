@@ -1,13 +1,17 @@
 ---
-title: "Paper Title Number 4"
+title: "Perceptual representations in L1 and L2 spatial and abstract language processing: applying an innovative sentence-diagram verification paradigm"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
+excerpt: 'The study tests bilingual speakers’ mental imagery on the basis of the simulation-based L1 comprehension model and proposes a simulation-based L2 comprehension model.'
+date: 2024-10-15
 venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+paperurl: 'https://menghan120.github.io/files/Wang_and_Zhao_2024b.pdf'
+citation: 'Wang, M., & Zhao, H. (2024b). Perceptual representations in L1 and L2 spatial and abstract language processing: Applying an innovative sentence-diagram verification paradigm. <i>Frontiers in Human Neuroscience</i>, <i>18</i>(1425576), 1–18. https://doi.org/10.3389/fnhum.2024.1425576'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<b>Introduction:</b> Perceptual representations in language comprehension were examined using sentence-picture verification tasks. However, concerns have been raised regarding the suitability of concrete pictures for representing abstract concepts compared to image-schematic diagrams. To assess the perceptual representations of spatial and abstract domains in both first language (L1) and second language (L2) processing, the study tests bilingual speakers’ mental imagery on the basis of the simulation-based L1 comprehension model and proposes a simulation-based L2 comprehension model, supported by empirical evidence from an innovative sentence-diagram verification paradigm.  
+
+<b>Methods:</b> 41 adult L1 Mandarin Chinese speakers participated in the study. 21 participants completed the Chinese sentence-diagram verification task (Experiment 1), while 20 participants completed the translation-equivalent version in L2 English (Experiment 2). Participants read a sentence (e.g., A diligent worker walked into the office (spatial sense); A strong team headed into the final (abstract sense)) at their self-paced speed, followed by a congruent (e.g., into diagram) or incongruent diagram (e.g., out-of diagram), and made binary judgments to verify spatial configurations between the sentence and diagram. Semantic rating tasks in both Chinese and English were also conducted to validate congruency between diagrams and sentences in both languages.  
+
+<b>Results and discussion:</b> Results from Experiment 1 indicate overall compatibility effects on L1 Chinese processing, unaffected by directional verbs or abstractness of sense. Results from Experiment 2 reveal interference effects on L2 English processing, with interference observed only after reading sentences encoding spatial senses, not abstract senses. Aligning with previous findings using sentencepicture verification tasks, the current findings confirm the weaker mental simulation effects in L2 processing compared to L1 processing. These findings extend the existing simulation-based L1 comprehension model, provide empirical support for the proposed simulation-based L2 comprehension model, and validate the innovative sentence-diagram verification paradigm for examining image-schematic representations in spatial and abstract language processing among Chinese-English bilinguals. The paradigm holds significant potential for research on perceptual representations in processing a broader range of grammatical and semantic properties during both online and offline L1 and L2 comprehension.
