@@ -12,7 +12,7 @@ redirect_from:
 
 Hello! My name is Menghan Wang. My preferred name is Minnie ~
 
-I am a lecturer at the School of International Studies, University of International Business and Economics (UIBE). 
+I am a lecturer at [School of International Studies](https://sis.uibe.edu.cn/English/index.htm), University of International Business and Economics (UIBE). 
 
 I hold a PhD degree in Applied Linguistics at [School of Language and Linguistics](https://arts.unimelb.edu.au/school-of-languages-and-linguistics), Faculty of Arts, [University of Melbourne](https://www.unimelb.edu.au/), Australia. 
 
