@@ -1,7 +1,7 @@
 ---
 title: "Research Methods in Applied Linguistics (90003)"
 collection: teaching
-type: "Postgraduate subject workshop"
+type: "Postgraduate workshop"
 permalink: /teaching/research_methods_in_al
 venue: "University of Melbourne, School of Languages and Linguistics"
 date: 2023-03-01
