@@ -1,6 +1,7 @@
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+url: "https://menghan120.github.io"
+baseurl: "/menghan.github.io"
+repository: "menghan120/menghan.github.io"
+
 author:
   # Biographic information
   avatar           : "profile.png"
@@ -9,19 +10,7 @@ author:
   bio              : "Linguist"
   location         : "China"
   employer         : "University of International Business and Economics (UIBE)"
-  uri              : # URL
   email            : "menghan.w@uibe.edu.cn" 
-
-  # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=gs5MDooAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-7177-1828"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Menghan-Wang-11"
-  scopus           : # URL
-  zotero           : # URL
