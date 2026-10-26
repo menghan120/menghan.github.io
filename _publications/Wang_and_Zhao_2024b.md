@@ -3,7 +3,7 @@ title: "Perceptual representations in L1 and L2 spatial and abstract language pr
 collection: publications
 category: manuscripts
 permalink: /publication/Wang_and_Zhao_2024b
-excerpt: 'The study tests bilingual speakers’ mental imagery on the basis of the simulation-based L1 comprehension model and proposes a simulation-based L2 comprehension model.'
+excerpt: 'The study used an innovative sentence-diagram verification task to test Chinese-English bilinguals’ mental imagery in motion sentence comprehension and proposed a simulation-based L2 comprehension model.'
 date: 2024-10-15
 venue: 'Frontiers in Human Neuroscience'
 paperurl: 'https://menghan120.github.io/files/Wang_and_Zhao_2024b.pdf'
