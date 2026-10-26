@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'The study tests bilingual speakers’ mental imagery on the basis of the simulation-based L1 comprehension model and proposes a simulation-based L2 comprehension model.'
 date: 2024-10-15
-venue: 'GitHub Journal of Bugs'
+venue: 'Frontiers in Human Neuroscience'
 paperurl: 'https://menghan120.github.io/files/Wang_and_Zhao_2024b.pdf'
 citation: 'Wang, M., & Zhao, H. (2024b). Perceptual representations in L1 and L2 spatial and abstract language processing: Applying an innovative sentence-diagram verification paradigm. <i>Frontiers in Human Neuroscience</i>, <i>18</i>(1425576), 1–18. https://doi.org/10.3389/fnhum.2024.1425576'
 ---
