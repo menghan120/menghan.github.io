@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate workshop"
 permalink: /teaching/research_methods_in_al
 venue: "University of Melbourne, School of Languages and Linguistics"
-date: "2023"
+date: "2023-08-01"
 location: "Melbourne, Australia"
 ---
 
