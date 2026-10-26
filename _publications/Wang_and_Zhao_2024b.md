@@ -2,7 +2,7 @@
 title: "Perceptual representations in L1 and L2 spatial and abstract language processing: applying an innovative sentence-diagram verification paradigm"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/Wang_and_Zhao_2024b
 excerpt: 'The study tests bilingual speakers’ mental imagery on the basis of the simulation-based L1 comprehension model and proposes a simulation-based L2 comprehension model.'
 date: 2024-10-15
 venue: 'Frontiers in Human Neuroscience'
