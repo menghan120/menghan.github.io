@@ -2,7 +2,7 @@
 title: "Role of perceptual and motor representations in bilingual and second language processing"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/Zhao_et_al_2025
 excerpt: 'This paper is an editorial of a special issue.'
 date: '2025-1-24'
 venue: 'Frontiers in Human Neuroscience'
