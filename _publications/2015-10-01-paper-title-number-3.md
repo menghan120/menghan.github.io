@@ -7,7 +7,7 @@ excerpt: 'This study probes the inﬂuence of active listening on BEC speaking t
 date: 2025-11-25
 venue: 'International Review of Applied Linguistics in Language Teaching'
 slidesurl: #
-paperurl: 'https://menghan120.github.io/files/Zhao_et_al_2025.pdf'
+paperurl: 'https://menghan120.github.io/files/Gao_and_Wang_2025.pdf'
 citation: 'Gao, W., & Wang, M. (2025). Listenership always matters: Active listening ability in L2 business English paired speaking tasks. <i>International Review of Applied Linguistics in Language Teaching</i>,<i>63</i>, 4, 2777-2806. https://doi.org/10.1515/iral-2023-0258'
 ---
 
