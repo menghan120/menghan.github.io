@@ -1,7 +1,7 @@
 ---
 title: "Second Language Acquisition (LING90012)"
 collection: teaching
-type: "Postgraduate subject"
+type: "Postgraduate workshop"
 permalink: /teaching/second_language_acquisition
 venue: "School of Languages and Linguistics, University of Melbourne"
 date: #
