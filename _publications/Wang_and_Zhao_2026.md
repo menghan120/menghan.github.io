@@ -2,7 +2,7 @@
 title: "Task-sensitive semantic-visual alignment of motion schema during incremental Mandarin sentence comprehension"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Wang_and_Zhao_2026
 excerpt: 'This study examined semantic-visual alignment of motion schema during incremental processing of Mandarin motion sentences, focusing on whether congruency effects are modulated by task demands and visual probe regions.'
 date: 2026-10-23
 venue: 'Language and Cognition'
