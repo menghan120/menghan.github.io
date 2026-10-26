@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**About me**
+
 
 I am a lecturer at the School of International Studies, University of International Business and Economics (UIBE). I hold a PhD degree in Applied Linguistics from the School of Language and Linguistics, Faculty of Arts, University of Melbourne, Australia. 
 
