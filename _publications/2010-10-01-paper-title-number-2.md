@@ -4,10 +4,10 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is an editorial of a special issue.'
-date: 2025-1-242
+date: '2025-1-24'
 venue: 'Frontiers in Human Neuroscience'
 slidesurl: #
-paperurl: 'https://academicpages.github.io/files/Zhao, Vanek, Yang and Wang (2025).pdf'
+paperurl: #
 citation: 'Zhao, H., Vanek, N., Jing, Y., & Wang, M. (2025). Role of perceptual and motor representations in bilingual and second language processing. <i>Frontiers in Human Neuroscience</i>, <i>19</i>(1555254), 1–2.'
 ---
 
