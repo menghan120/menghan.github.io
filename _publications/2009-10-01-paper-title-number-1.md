@@ -7,7 +7,7 @@ excerpt: 'This study examined semantic-visual alignment of motion schema during 
 date: 2026-10-23
 venue: 'Language and Cognition'
 slidesurl: #
-paperurl: '10.1017/langcog.2026.10120'
+paperurl: 'https://academicpages.github.io/files/Wang_and_Zhao_2026.pdf'
 bibtexurl: #
 citation: 'Wang, M., & Zhao, H. (2026). Task-sensitive semantic-visual alignment of motion schema during incremental Mandarin sentence comprehension. <i>Language and Cognition</i>, <i>18</i>, e71, 1-23. https://doi.org/10.1017/langcog.2026.10120'
 ---
