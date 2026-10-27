@@ -1,4 +1,4 @@
-<img width="432" height="85" alt="image" src="https://github.com/user-attachments/assets/d5fa5ff0-f117-410d-9e6e-d2ea48dc176a" />---
+---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -19,14 +19,14 @@ Work experience
 ======
 * 2024-now: Reviewer
   * Duties includes: Writing reviewer reports
-    * Lingua
-    * International Journal of Applied Linguistics
-    * Reading and Writing
-    * Scientific Reports
-    * Humanities and Social Sciences Communications
-    * SN Social Sciences
-    * npj Science of Learning
-    * Annual Conference of Cognitive Science Society
+    * <i>Lingua</i>
+    * <i>International Journal of Applied Linguistics</i>
+    * <i>Reading and Writing</i>
+    * <i>Scientific Reports</i>
+    * <i>Humanities and Social Sciences Communications</i>
+    * <i>SN Social Sciences</i>
+    * <i>npj Science of Learning</i>
+    * <i>Proceedings of Annual Conference of Cognitive Science Society</i>
   * Supervisor: Journal Editors
 
 * 2025-now: Webmaster and Communications Officer
