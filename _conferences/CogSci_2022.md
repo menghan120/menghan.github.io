@@ -1,5 +1,5 @@
 ---
-title: "Schematic diagrams and semantic processing of English prepositional polysemy.
+title: "Schematic diagrams and semantic processing of English prepositional polysemy"
 collection: conferences
 type: "Talk"
 permalink: /talks/CogSci_2022
