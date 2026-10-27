@@ -1,6 +1,6 @@
 ---
 title: "Schematic diagrams and semantic processing of English prepositional polysemy.
-collection: talks
+collection: conferences
 type: "Talk"
 permalink: /talks/CogSci_2022
 venue: "UC San Francisco, Department of Testing"
