@@ -1,5 +1,5 @@
 ---
-title: "The instructed learning of form-function mappings of L2 English Generic NPs"
+title: "The instructed learning of form-function mappings of L2 English generic NPs"
 collection: talks
 type: "Talk"
 permalink: /talks/KASLA_2023
