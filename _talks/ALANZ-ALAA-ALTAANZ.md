@@ -5,5 +5,5 @@ type: "Talk"
 permalink: /talks/ALANZ-ALAA-ALTAANZ
 venue: "ALANZ-ALAA-ALTAANZ"
 date: 2022-11-27
-location: "Wellington, New Zealand"
+location: "Victoria University of Wellington, New Zealand"
 ---
