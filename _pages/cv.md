@@ -15,9 +15,26 @@ Education
 * Master of Applied Linguistics, University of Melbourne, 2021
 * Bachelor of Arts, Capital Normal University, 2019
 
+Research Interest
+======
+
+* Language processing
+* Second language acquisition
+* Bilingualism
+* Mental simulation and representation
+* Embodied cognition
+* Explicit and implicit knowledge
+* Working memory
+
 Work experience
 ======
-* 2024-now: Reviewer
+
+* 2025 - now: Webmaster and Communications Officer
+  * International Cognitive Linguistics Association (ICLA)
+  * Duties included: Managing and updating official websites and emails
+  * Supervisor: ICLA Board
+ 
+* 2024 - now: Reviewer
   * Duties includes: Writing reviewer reports
     * <i>Lingua</i>
     * <i>International Journal of Applied Linguistics</i>
@@ -29,36 +46,20 @@ Work experience
     * <i>Proceedings of Annual Conference of Cognitive Science Society</i>
   * Supervisor: Journal Editors
 
-* 2025-now: Webmaster and Communications Officer
-  * International Cognitive Linguistics Association (ICLA)
-  * Duties included: Managing and updating official websites and emails
-  * Supervisor: ICLA Board
-
-* 2023-2025: Academic Tutor
+* 2023 - 2025: Academic Tutor
   * University of Melbourne
   * Duties included: Delivering workshops, answering questions and marking assignments
   * Supervisor: Helen Zhao, Melanie Burns
  
-* 2023-2024: Topic Coordinator
+* 2023 - 2024: Topic Coordinator
   * Frontiers in Human Neuroscience
   * Duties included: Gathering information, drafting introduction for special issue
   * Supervisor: Helen Zhao
 
-* 2022-2023: Research Assistant
+* 2022 - 2023: Research Assistant
   * University of Melbourne
   * Duties included: Experiment design and programming, data collection and entry, translation
   * Supervisor: Helen Zhao, Ashleigh Hanson
- 
-Research Interest
-======
-
-* Language processing
-* Second language acquisition
-* Bilingualism
-* Mental simulation and representation
-* Embodied cognition
-* Explicit and implicit knowledge
-* Working memory
 
   
 Skills
