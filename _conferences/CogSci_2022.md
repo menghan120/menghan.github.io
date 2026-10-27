@@ -3,7 +3,7 @@ title: "Schematic diagrams and semantic processing of English prepositional poly
 collection: conferences
 type: "Talk"
 permalink: /talks/CogSci_2022
-venue: "UC San Francisco, Department of Testing"
+venue: "Proceedings of the 44th Annual Conference of the Cognitive Science Society"
 date: 2022-07-28
 location: "Toronto, Canada"
 ---
