@@ -1,4 +1,4 @@
----
+<img width="432" height="85" alt="image" src="https://github.com/user-attachments/assets/d5fa5ff0-f117-410d-9e6e-d2ea48dc176a" />---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -48,15 +48,36 @@ Work experience
   * University of Melbourne
   * Duties included: Experiment design and programming, data collection and entry, translation
   * Supervisor: Helen Zhao, Ashleigh Hanson
+ 
+Research Interest
+======
+
+* Language processing
+* Second language acquisition
+* Bilingualism
+* Mental simulation and representation
+* Embodied cognition
+* Explicit and implicit knowledge
+* Working memory
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Mandarin Chinese, English 
+* Software/Tools
+  * R
+  * Python
+  * PsyToolkit
+  * Gorilla
+  * E-prime
+  * ELAN
+  * SPSS
+* Inferential statistical analysis
+  * Linear mixed effects modeling
+  * Generalized addictive mixed modeling
+  * Structural equation modeling
+  * Divergence point analysis
 
 Publications
 ======
