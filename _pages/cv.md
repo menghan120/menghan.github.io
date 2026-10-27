@@ -11,26 +11,43 @@ redirect_from:
 
 Education
 ======
-* Doctor of Philosophy, University of Melbourne, 2026
+* Doctor of Philosophy in Applied Linguistics, University of Melbourne, 2026
 * Master of Applied Linguistics, University of Melbourne, 2021
 * Bachelor of Arts, Capital Normal University, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-now: Reviewer
+  * Duties includes: Writing reviewer reports
+    * Lingua
+    * International Journal of Applied Linguistics
+    * Reading and Writing
+    * Scientific Reports
+    * Humanities and Social Sciences Communications
+    * SN Social Sciences
+    * npj Science of Learning
+    * Annual Conference of Cognitive Science Society
+  * Supervisor: Journal Editors
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2025-now: Webmaster and Communications Officer
+  * International Cognitive Linguistics Association (ICLA)
+  * Duties included: Managing and updating official websites and emails
+  * Supervisor: ICLA Board
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023-2025: Academic Tutor
+  * University of Melbourne
+  * Duties included: Delivering workshops, answering questions and marking assignments
+  * Supervisor: Helen Zhao, Melanie Burns
+ 
+* 2023-2024: Topic Coordinator
+  * Frontiers in Human Neuroscience
+  * Duties included: Gathering information, drafting introduction for special issue
+  * Supervisor: Helen Zhao
+
+* 2022-2023: Research Assistant
+  * University of Melbourne
+  * Duties included: Experiment design and programming, data collection and entry, translation
+  * Supervisor: Helen Zhao, Ashleigh Hanson
   
 Skills
 ======
