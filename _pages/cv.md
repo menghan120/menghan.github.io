@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Doctor of Philosophy, University of Melbourne, 2026
+* Master of Applied Linguistics, University of Melbourne, 2021
+* Bachelor of Arts, Capital Normal University, 2019
 
 Work experience
 ======
@@ -59,6 +59,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Honors and Awards
 ======
-* Currently signed in to 43 different slack teams
+* Graduate Research Essentials Grant, The University of Melbourne		                2024
+* Early Career Scholarship, International Cognitive Linguistics Association (ICLA)  2023
+* Special Scheme of Research Data Collection Support, The University of Melbourne   2023
+* Graduate Research in Arts Travel Scheme (GRATS), The University of Melbourne      2023
+* Graduate Research in Arts Travel Scheme (GRATS), The University of Melbourne      2022
+* Melbourne Research Scholarship, The University of Melbourne		                    2022
+* Dean’s Honours List, Faculty of Arts, The University of Melbourne		              2021
